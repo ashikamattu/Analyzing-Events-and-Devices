@@ -1,6 +1,6 @@
 # Analyzing-Events-and-Devices
 Analyzing network log data containing information about users, events, devices and hosts.
-The dataset is available in data.dump file in this [location - ](https://github.com/ashikamattu/movie_data_analysis/blob/main/data.zip)
+The dataset is available in data.dump file in this [location](https://github.com/ashikamattu/movie_data_analysis/blob/main/data.zip)
 
 # Highlights - 
 1. PostgreSQL
